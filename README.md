@@ -1,43 +1,14 @@
-# 
-![Netflix](./img/NETFLİX.gif)
+<h1> My Portfoli Page</h1>
 
-[👉 click here to login Netflix](https://ilkerkr.github.io/netflix2/)
+<h2> Description</h2>
+<p>The project aims to create portfolio pages within html and css codes.</p>
 
-# Project-001 :Survey Form (HC-01)
+ <h2>Project Skeleton</h2>
 
-## Description
-
-Project aims to create survey form within html and css.
-
-## Project Skeleton
-
-```
-001-survey-form (folder)
+<p>My-Portfolio-Page (folder)
 |
 |----readme.md                  
 |----img
 |----index.html  
-|----style.css  
-```
-
-## Objective
-
-Functionally create a Survey Form as in the image above
-
-### At the end of the project, following topics are to be covered;
-
-- HTML Forms-Input Types
-  
-- HTML Form Elements
-
-- CSS Colors-Border Properties
-
-- CSS Margins-Padding
-
-- CSS Properties for Texts-Font Families-Links
-
-### At the end of the project, will be able to;
-
-- improve coding skills within HTML & CSS
-
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+|----portfolio.css  
+</p>
