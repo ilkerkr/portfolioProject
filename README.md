@@ -1,5 +1,7 @@
 <h1> My Portfolio Page</h1>
 
+![Portfolio Gif](./img/MyPortfolio.gif)
+
 [👉click here to login My Portfolio Page](https://ilkerkr.github.io/portfolioProject/)
 
 <h2> Description</h2>
